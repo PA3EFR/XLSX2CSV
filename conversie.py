@@ -1,3 +1,8 @@
+"""
+This file was created and tested by Erwin - PA3EFR
+"""
+
+
 import pandas as pd
 
 def xlsx_to_csv_with_combined_columns(input_file, output_file, columns, combine_columns, new_column_name, separator=" "):
